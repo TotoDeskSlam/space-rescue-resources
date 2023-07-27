@@ -1,3 +1,4 @@
+from GameFrame import Globals
 
 class Globals:
 
